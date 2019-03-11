@@ -1,0 +1,28 @@
+[2019-03-08 11:13:37.568] - 72812 信息 [main] --- org.apache.catalina.core.StandardService: Starting service [Tomcat]
+[2019-03-08 11:13:37.576] - 72812 信息 [main] --- org.apache.catalina.core.StandardEngine: Starting Servlet Engine: Apache Tomcat/8.5.34
+[2019-03-08 11:13:37.585] - 72812 信息 [localhost-startStop-1] --- org.apache.catalina.core.AprLifecycleListener: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\jdk\java8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\jdk\java8\bin;C:\ProgramFiles\node-v8.11.1-win-x64;C:\Program Files\Git\bin;C:\ProgramFiles\gradle-4.9\bin;C:\ProgramFiles\scala-2.10.6\bin;C:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\Users\bee\AppData\Local\Microsoft\WindowsApps;;.]
+[2019-03-08 11:13:38.120] - 72812 信息 [localhost-startStop-1] --- org.apache.jasper.servlet.TldScanner: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-03-08 11:13:38.128] - 72812 信息 [localhost-startStop-1] --- org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/dubboTwo]: Initializing Spring embedded WebApplicationContext
+[2019-03-08 11:14:46.827] - 72812 信息 [http-nio-8094-exec-1] --- org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/dubboTwo]: Initializing Spring FrameworkServlet 'dispatcherServlet'
+[2019-03-08 11:14:47.924] - 72812 警告 [New I/O client worker #1-1] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
+[2019-03-08 11:14:47.928] - 72812 警告 [New I/O client worker #1-1] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
+[2019-03-08 11:14:47.930] - 72812 警告 [New I/O client worker #1-1] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
+[2019-03-08 11:14:47.932] - 72812 警告 [New I/O client worker #1-1] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
+[2019-03-08 11:14:47.933] - 72812 警告 [New I/O client worker #1-1] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
+[2019-03-08 11:14:47.935] - 72812 警告 [New I/O client worker #1-1] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
+[2019-03-08 11:14:47.937] - 72812 警告 [New I/O client worker #1-1] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
+[2019-03-08 13:54:19.092] - 72812 警告 [New I/O client worker #1-1] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
+[2019-03-08 13:54:19.125] - 72812 警告 [New I/O client worker #1-1] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
+[2019-03-11 09:27:40.570] - 72812 警告 [New I/O client worker #1-2] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
+[2019-03-11 09:27:40.624] - 72812 警告 [New I/O client worker #1-2] --- com.alibaba.com.caucho.hessian.io.SerializerFactory: Hessian/Burlap: 'com.debug.mooc.dubbo.one.model.entity.ItemInfo' is an unknown class in sun.misc.Launcher$AppClassLoader@18b4aac2:
+java.lang.ClassNotFoundException: com.debug.mooc.dubbo.one.model.entity.ItemInfo
